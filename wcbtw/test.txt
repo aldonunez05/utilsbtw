@@ -1,0 +1,17 @@
+hello
+this 
+is
+a
+test
+file 
+so 
+i 
+can
+test
+to
+see 
+if 
+my 
+wc 
+implemintation
+works
